@@ -1,0 +1,12 @@
+.cabecalho{
+    background-color: var(--cor-cabecalho);
+}
+
+.container {
+    display: flex;
+    display: inline-block;
+}
+
+.cabecalho__menu__hamburguer {
+    background-image: url("../Imagens/Menu.svg");
+}
